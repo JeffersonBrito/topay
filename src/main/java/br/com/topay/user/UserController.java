@@ -1,7 +1,7 @@
-package br.com.topay.controllers;
+package br.com.topay.user;
 
-import br.com.topay.models.User;
-import br.com.topay.services.UserService;
+import br.com.topay.user.User;
+import br.com.topay.user.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

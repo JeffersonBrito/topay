@@ -1,4 +1,4 @@
-package br.com.topay.models;
+package br.com.topay.category;
 
 import javax.persistence.*;
 import java.io.Serializable;

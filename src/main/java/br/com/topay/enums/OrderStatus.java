@@ -1,4 +1,4 @@
-package br.com.topay.models.enums;
+package br.com.topay.enums;
 
 public enum OrderStatus {
     WAITING_PAYMENT(1),

@@ -1,12 +1,12 @@
 package br.com.topay.config;
 
-import br.com.topay.models.Category;
-import br.com.topay.models.Order;
-import br.com.topay.models.User;
-import br.com.topay.models.enums.OrderStatus;
-import br.com.topay.repositories.CategoryRepository;
-import br.com.topay.repositories.OrderRepository;
-import br.com.topay.repositories.UserRepository;
+import br.com.topay.category.Category;
+import br.com.topay.order.Order;
+import br.com.topay.user.User;
+import br.com.topay.enums.OrderStatus;
+import br.com.topay.category.CategoryRepository;
+import br.com.topay.order.OrderRepository;
+import br.com.topay.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;

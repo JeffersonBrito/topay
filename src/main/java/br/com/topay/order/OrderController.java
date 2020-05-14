@@ -1,7 +1,5 @@
-package br.com.topay.controllers;
+package br.com.topay.order;
 
-import br.com.topay.models.Order;
-import br.com.topay.services.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

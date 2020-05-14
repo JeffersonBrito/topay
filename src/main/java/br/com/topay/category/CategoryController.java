@@ -1,7 +1,7 @@
-package br.com.topay.controllers;
+package br.com.topay.category;
 
-import br.com.topay.models.Category;
-import br.com.topay.services.CategoryService;
+import br.com.topay.category.Category;
+import br.com.topay.category.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

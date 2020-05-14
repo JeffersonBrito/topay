@@ -1,7 +1,5 @@
-package br.com.topay.services;
+package br.com.topay.category;
 
-import br.com.topay.models.Category;
-import br.com.topay.repositories.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

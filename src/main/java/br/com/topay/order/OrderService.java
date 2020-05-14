@@ -1,7 +1,7 @@
-package br.com.topay.services;
+package br.com.topay.order;
 
-import br.com.topay.models.Order;
-import br.com.topay.repositories.OrderRepository;
+import br.com.topay.order.Order;
+import br.com.topay.order.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,5 @@
-package br.com.topay.services;
+package br.com.topay.user;
 
-import br.com.topay.models.User;
-import br.com.topay.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

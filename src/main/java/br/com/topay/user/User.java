@@ -1,5 +1,6 @@
-package br.com.topay.models;
+package br.com.topay.user;
 
+import br.com.topay.order.Order;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import javax.persistence.*;

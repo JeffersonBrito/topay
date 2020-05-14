@@ -1,6 +1,7 @@
-package br.com.topay.models;
+package br.com.topay.order;
 
-import br.com.topay.models.enums.OrderStatus;
+import br.com.topay.enums.OrderStatus;
+import br.com.topay.user.User;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 import javax.persistence.*;
